@@ -1,11 +1,13 @@
 {
-    "name": "mynodejs",
-    "version": "0.0.1",
-    "description": "exercise package",
-    "author": "chentao <chentao2110334@gmail.com>",
-    "dependencies": {
-        "express": "1.x.x",
-        "ejs": ">= 0.4.2",
-        "redis": ">= 0.6.7"
-    }
+  "name": "mynodejs",
+  "version": "0.0.1",
+  "description": "exercise package",
+  "author": "chentao <chentao2110334@gmail.com>",
+  "dependencies": {
+    "async": "^0.9.0",
+    "ejs": ">= 0.4.2",
+    "express": "4.x.x",
+    "lodash": "^3.8.0",
+    "redis": ">= 0.6.7"
+  }
 }
