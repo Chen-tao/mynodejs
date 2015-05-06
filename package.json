@@ -12,5 +12,22 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5"
-  }
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chen-tao/mynodejs.git"
+  },
+  "keywords": [
+    "tadchen",
+    "exercise"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chen-tao/mynodejs/issues"
+  },
+  "homepage": "https://github.com/Chen-tao/mynodejs#readme"
 }
