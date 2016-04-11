@@ -6,3 +6,5 @@ var child = exec('echo hello ' + name, function(err, stdout, stderr) {
   if (err) throw err;
   console.log(stdout);
 });
+while(1)
+  var a = "1";
